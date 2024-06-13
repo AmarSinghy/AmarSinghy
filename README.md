@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Amar Singh Yadav</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D4D12AQE-5Q-evNzR2Q/article-cover_image-shrink_600_2000/0/1688467501706?e=2147483647&v=beta&t=whP7ShBPsKCwXL_BXXx0GL4NfK2W8ylWC_pAKknbRDU">
